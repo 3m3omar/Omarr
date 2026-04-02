@@ -4,6 +4,7 @@
 - Partner Name: hamza, khaled, abdelaziz
 ## Project Question
 How can we design and test a simple project website using GitHub Pages?
+we can always create a repo between all the group members to share our latest versions of codes, theories and so on.
 ## Background
 This site collects our project materials, notes, and deliverables.
 ## Project Resources
