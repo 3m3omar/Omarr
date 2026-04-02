@@ -11,7 +11,7 @@ This site collects our project materials, notes, and deliverables.
 - [Project Proposal](#)
 - [Notebook 1](#)
 - [Slides](#)
-- [Shared Folder](#)
+- [Shared Folder](#https://github.com/3m3omar/Omarr/blob/main/Weekly%20progress%20report.pptx)
 - [Video Demo](#)
 ## Results
 Write 2–4 sentences explaining what your project is about and what you found.
